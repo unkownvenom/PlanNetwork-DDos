@@ -1,6 +1,4 @@
-                  print("UNKOWNVENOM") 
-                  print("IG = @_venom836") 
-"""PLANETWORK DDOS
+ """PLANETWORK DDOS
     Tool for sending packets to the most beautiful ex: 'v "" "
 
 import time
