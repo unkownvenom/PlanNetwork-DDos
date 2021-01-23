@@ -1,6 +1,3 @@
- """PLANETWORK DDOS
-    Tool for sending packets to the most beautiful ex: 'v "" "
-
 import time
 import socket                                     
 import random
