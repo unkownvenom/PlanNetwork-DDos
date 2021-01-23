@@ -7,7 +7,7 @@ git clone https://github.com/Hydra7/Planetwork-DDOS
 
 cd Planetwork-DDOS                               
 
-python2 ./pntddos.py
+python2 pntddos.py
 
 𝗨𝗦𝗔𝗚𝗘 -- 
 
@@ -15,9 +15,9 @@ python2 ./pntddos.py
 
 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦 -- 
 
-python2 ./pntddos.py ip port packet
+python2 pntddos.py ip port packet
 
-python2 ./pntddos.py 192.168.xx.xx 80 3000
+python2 pntddos.py 192.168.xx.xx 80 3000
 
 𝗡𝗢𝗧𝗘 -- 
 
